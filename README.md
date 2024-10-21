@@ -2,7 +2,7 @@
 
 ## Paper 
 
-* Comparing Template-based and Template-free Language Model Probing 
+* [Comparing Template-based and Template-free Language Model Probing](https://aclanthology.org/2024.eacl-long.46.pdf) 
 
 ## Code 
 
