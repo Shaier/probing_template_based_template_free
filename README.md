@@ -20,7 +20,8 @@ The dataset is split into two portions: chemicals and genes.
 
 If you use the data or paper in your work please cite us:
 
-```@inproceedings{shaier-etal-2024-comparing,
+```
+@inproceedings{shaier-etal-2024-comparing,
     title = "Comparing Template-based and Template-free Language Model Probing",
     author = "Shaier, Sagi  and
       Bennett, Kevin  and
@@ -34,4 +35,5 @@ If you use the data or paper in your work please cite us:
     address = "St. Julian{'}s, Malta",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.eacl-long.46",
-    pages = "766--776"}```
+    pages = "766--776"}
+```
